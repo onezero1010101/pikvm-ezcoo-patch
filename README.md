@@ -1,3 +1,5 @@
+# Patch for PiKVM EZCool Switches
+Reference https://github.com/semool/kvmd
 
 ## Install
 Need to hard refresh after install/update
